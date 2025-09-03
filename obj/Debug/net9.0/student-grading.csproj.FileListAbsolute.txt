@@ -1,0 +1,14 @@
+C:\Users\Angelo\Desktop\projetos\student-grading\bin\Debug\net9.0\student-grading.exe
+C:\Users\Angelo\Desktop\projetos\student-grading\bin\Debug\net9.0\student-grading.deps.json
+C:\Users\Angelo\Desktop\projetos\student-grading\bin\Debug\net9.0\student-grading.runtimeconfig.json
+C:\Users\Angelo\Desktop\projetos\student-grading\bin\Debug\net9.0\student-grading.dll
+C:\Users\Angelo\Desktop\projetos\student-grading\bin\Debug\net9.0\student-grading.pdb
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.dll
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\refint\student-grading.dll
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.pdb
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\student-grading.genruntimeconfig.cache
+C:\Users\Angelo\Desktop\projetos\student-grading\obj\Debug\net9.0\ref\student-grading.dll
